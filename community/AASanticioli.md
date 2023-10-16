@@ -1,4 +1,4 @@
-<!-- Background doesn't word on github, but, in another markdown pages, it elevate the experience to another level -->
+z<!-- Background doesn't word on github, but, in another markdown pages, it elevate the experience to another level -->
 <div style="display: flex; flex-direction: column;  background-image: url('https://aasanticioli.github.io/assets/images/background/background.jpg'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
   <!-- Generated using this tool: https://readme-typing-svg.herokuapp.com/demo/ -->
@@ -120,7 +120,7 @@ _I've been studying and working a lot, so I don't get to participate in social m
   ### Personal GitHub Stats
   _Just for fun_.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AASANTICIOLI&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AASANTICIOLI&theme=shadow_red&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AASANTICIOLI&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
   </div>
   <br/>
